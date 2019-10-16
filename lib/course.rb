@@ -7,6 +7,7 @@ class Course
     @title = title
     @schedule = schedule
     @description = description
+    @@all 
   end
 
 end
