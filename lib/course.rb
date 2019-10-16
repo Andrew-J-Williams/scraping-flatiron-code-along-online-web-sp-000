@@ -4,7 +4,7 @@ class Course
   @@all = []
 
   def initialize(title, schedule, description)
-    
+    @title = title 
   end
 
 end
