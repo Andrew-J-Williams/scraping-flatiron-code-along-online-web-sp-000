@@ -5,6 +5,6 @@ class Course
 
   def initialize(title, schedule, description)
     
-  end 
+  end
 
 end
