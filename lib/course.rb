@@ -5,6 +5,7 @@ class Course
 
   def initialize(title, schedule, description)
     @title = title 
+    @schedule = schedule
   end
 
 end
