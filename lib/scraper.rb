@@ -11,6 +11,7 @@ class Scraper
 
     doc.css(".post").each do |post|
       course = Course.new
+      course.title = 
 
     end
 
