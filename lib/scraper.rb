@@ -11,6 +11,9 @@ class Scraper
 
     doc.css(".post").each do |post|
 
+
+    end
+
   end
 
 
