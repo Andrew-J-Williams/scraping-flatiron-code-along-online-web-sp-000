@@ -12,16 +12,16 @@ class Scraper
   end
 
 
-  def get_courses
+#  def get_courses
 
 
-  end
+#  end
 
 
-  def make_courses
+#  def make_courses
 
 
-  end
+#  end
 
 
 
@@ -37,3 +37,5 @@ class Scraper
   end
 
 end
+
+Scraper.new.get_page
